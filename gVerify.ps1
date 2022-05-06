@@ -1,4 +1,4 @@
-﻿
+<# test #>﻿
 
 $source = "F:\Video"
 $dest = "e:\Video"
